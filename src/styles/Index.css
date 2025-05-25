@@ -1,0 +1,17 @@
+
+.index-page {
+  scroll-behavior: smooth;
+}
+
+main {
+  overflow-x: hidden;
+}
+
+.scroll-container {
+  height: 100%;
+  overflow: hidden;
+}
+
+section {
+  scroll-margin-top: 5vh;
+}
