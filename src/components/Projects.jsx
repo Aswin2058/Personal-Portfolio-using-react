@@ -22,7 +22,7 @@ const Projects = () => {
       image: '/dashboard.png',
       description: 'A personal dashboard with live weather forecast, calenders, todo lists etc for daily usage. Also contains games, music player and quoets platform. ',
       technologies: ['Typescript', 'React', 'CSS', 'JavaScript' ],
-      link: 'https://personal-dashboard-git-main-aswin-thapas-projects.vercel.app/'
+      link: 'personal-dashboard-ipp6hsgik-aswin-thapas-projects.vercel.app'
     },
     {
       id: 6,
