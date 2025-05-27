@@ -10,12 +10,22 @@ const Projects = () => {
       id: 1,
       title: 'Food Blog: Crave culture',
       category: 'Web Development',
-      description: 'This is our recent full stack group project, people share memories of foods and culture.',
+      image: '/crave.png',
+      description: 'This is our recent full stack group project, people share memories of foods and culture. and i have 2 3 more full stack projects i have not deployed yet but available in the github',
       technologies: ['Typescript', 'React', 'CSS', 'JavaScript' ],
       link: '#'
     },
     {
       id: 2,
+      title: 'Personal-Dashboard',
+      category: 'Web Development',
+      image: '/dashboard.png',
+      description: 'A personal dashboard with live weather forecast, calenders, todo lists etc for daily usage. Also contains games, music player and quoets platform. ',
+      technologies: ['Typescript', 'React', 'CSS', 'JavaScript' ],
+      link: 'https://personal-dashboard-git-main-aswin-thapas-projects.vercel.app/'
+    },
+    {
+      id: 6,
       title: 'Step It Up',
       category: 'Web Application',
       image: '/step.png',
@@ -28,9 +38,27 @@ const Projects = () => {
       title: 'Art Gallery',
       category: 'Website',
       image: '/art.png',
-      description: 'Very beautyful website of art galleries around the world. It was our very first project after learning HTML, CSS and JS.',
+      description: 'Very beautiful website of art galleries around the world. It was our very first project after learning HTML, CSS and JS.',
       technologies: ['HTML', 'CSS', 'JavaScript'],
       link: 'https://aswin2058.github.io/First-Project/main.html'
+    },
+    {
+      id: 4,
+      title: 'Simple personal portfolio',
+      category: 'Website',
+      image: '/portfolio.png',
+      description: 'This was the first portfolio design I created using HTML, CSS and JS. Then I replaced it with my current using react + typescript.',
+      technologies: ['HTML', 'CSS', 'JavaScript'],
+      link: 'https://aswin2058.github.io/My-Portpolio-/'
+    },
+    {
+      id: 5,
+      title: 'ChronoLux_OMart',
+      category: 'Full Stack e-Commerce Web App',
+      image: '/ChronoLux.png',
+      description: 'This is a full stact e-commerce app as my C# final project. It has very good UI/UX design but it is not deployed yet just uploaded to github.',
+      technologies: ['C#.Net', 'HTML', 'CSS', 'JSON', 'JS'],
+      link: '#'
     }
   ];
   
