@@ -151,7 +151,7 @@
 /* Responsive Breakpoints */
 @media (max-width: 768px) {
   .projects-section {
-    width: 80%;
+    width: 95%;
     max-height: 90vh;
   }
 
